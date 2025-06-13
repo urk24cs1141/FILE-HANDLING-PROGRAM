@@ -27,3 +27,7 @@ Key Functionalities:
 
 File Creation and Writing:
 The program starts by creating a new file named text.txt using the "w" (write) mode. If the file already exists, this mode overwrites the existing content. If the file doesn’t exist, it will be created. The fprintf() function is used to write two lines of text to the file. This segment teaches how to handle file creation and how to write formatted output to a file in C
+
+OUTPUT:
+<img width="926" alt="first output internship" src="https://github.com/user-attachments/assets/7beb5b9a-4359-4907-bc6d-31088000ec1b" />
+
